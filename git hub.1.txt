@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>welcome </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<h1>Warm welcome</h1>
+
+<body>
+
+    <header>
+
+        <img src="ju.jpg.jpg">
+    
+<div class="upper"></div>
+
+
+<div class="logo">,<img src="img.j.jfif" ></div>
+
+
+<ul>
+
+
+    <li>
+        <a href="#">home</a>
+    </li>
+    <li> <a href="#">about</a></li>
+
+    <li><a href="#">contact</a></li>
+    <li><a href="#">  gallery</a></li>
+    <li><a href="#">services</a></li>
+
+
+</ul>
+</div>
+</header>
+</body>
+</html>
